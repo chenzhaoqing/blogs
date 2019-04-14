@@ -1,26 +1,18 @@
-title: "Head First Design Pattern: 1 设计模式入门"
-
+title: 'Head First设计模式 阅读笔记: 1 设计模式入门'
 tags:
-
-- design pattern
-- strategy pattern
-
+  - design pattern
+  - strategy pattern
 categories: reading notes
-
 date: 2019-04-05
-
-
+---
 
 *使用模式最好的方法：“把模式装进脑子里，然后在你的设计和已有的应用中，寻找何处可以使用它们。”*
 
 - 面向对象：代码复用
 - 设计模式：经验复用
 
-
-
 软件开发的一个不变真理：**CHANGE**
-
-
+<!--more-->
 
 ## 面向对象基础
 
